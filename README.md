@@ -1,11 +1,11 @@
 # FinalGrade-Predictor
 This is a basic Machine Learning model which can able to predict the **"Final Grade"** of students based on different attributes.
 The attributes/labels that are included in finding the target are:
-  ***G1**
-  ***G2**
-  ***StudyTime**
-  ***Failures**
-  ***Absences**
+  * **G1**
+  * **G2**
+  * **StudyTime**
+  * **Failures**
+  * **Absences**
 ## Steps involved in making this project:
   ### 1)Analysing the data
   First we need to have the dataset file in which we need to identify the labels and the target
