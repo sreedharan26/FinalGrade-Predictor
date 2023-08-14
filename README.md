@@ -19,25 +19,36 @@ The attributes/labels that are included in finding the target are:
   After giving the data i.e both input and output to the model, it gets trains on the data.
   We can get the BFL from this step.
   Our model's BFL's co-efficients of each label came out as follows
+  <br />
   <img width="682" alt="Screenshot 2023-08-14 at 6 16 19 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/99a89c97-53fc-4317-8fc9-e6c8173c7377">
-  
+  <br />
   and the intercept as 
+  <br /> 
   <img width="272" alt="Screenshot 2023-08-14 at 6 18 38 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/263e6b28-8736-463b-af1d-6a00736a03b7">
-  "\n"
+  <br />
   and the accuracy of the model came out as **82.4%**
   ### 5)Testing the model
   After training the model we need to give the x_test(testing data of x-axis) we will get the predictions of the given data and then we can compare the predicted values to the original value.
   ### 6)Plotting the graph:
-  
-        * BFL between "G3" and "G1":
+  * BFL between "G3" and "G1":
+     <br />
            ![G1](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/550db4e7-0468-43bc-8745-2be82b85db8f)
-        * BFL between "G3" and "G2"
+     <br />
+  * BFL between "G3" and "G2":
+     <br />
       ![G2](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/c2eda65a-92f9-4cbf-8ff7-b02c548861e8)
-        * BFL between "G3" and "studytime"
+     <br />
+  * BFL between "G3" and "studytime":
+     <br />
       ![studytime](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/e7fd8e5a-4c15-41ad-b956-bb862fe892f5)
-        * BFL between "G3" and "failures"
+     <br />
+  * BFL between "G3" and "failures":
+     <br />
       ![failures](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/f5a21810-5030-4fb4-bdfb-30e9ead11f51)
-        * BFL between "G3" and "absences"
+    <br />
+  * BFL between "G3" and "absences":
+     <br />
       ![absences](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/20ff9b1b-7617-4127-a787-f60027ffd30c)
+    <br />
 
     
