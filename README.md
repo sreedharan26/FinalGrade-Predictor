@@ -20,9 +20,11 @@ The attributes/labels that are included in finding the target are:
   We can get the BFL from this step.
   Our model's BFL's co-efficients of each label came out as follows
   <img width="682" alt="Screenshot 2023-08-14 at 6 16 19 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/99a89c97-53fc-4317-8fc9-e6c8173c7377">
+  
   and the intercept as 
   <img width="272" alt="Screenshot 2023-08-14 at 6 18 38 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/263e6b28-8736-463b-af1d-6a00736a03b7">
-  "\n"and the accuracy of the model came out as **82.4%**
+  "\n"
+  and the accuracy of the model came out as **82.4%**
   ### 5)Testing the model
   After training the model we need to give the x_test(testing data of x-axis) we will get the predictions of the given data and then we can compare the predicted values to the original value.
   ### 6)Plotting the graph:
