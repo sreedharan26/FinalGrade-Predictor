@@ -26,15 +26,15 @@ The attributes/labels that are included in finding the target are:
   ### 5)Testing the model
   After training the model we need to give the x_test(testing data of x-axis) we will get the predictions of the given data and then we can compare the predicted values to the original value.
   ### 6)Plotting the graph:
-    * BFL between "G3" and "G1"
-      ![G1](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/550db4e7-0468-43bc-8745-2be82b85db8f)
-    * BFL between "G3" and "G2"
+        * BFL between "G3" and "G1"
+           ![G1](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/550db4e7-0468-43bc-8745-2be82b85db8f)
+        * BFL between "G3" and "G2"
       ![G2](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/c2eda65a-92f9-4cbf-8ff7-b02c548861e8)
-    * BFL between "G3" and "studytime"
+        * BFL between "G3" and "studytime"
       ![studytime](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/e7fd8e5a-4c15-41ad-b956-bb862fe892f5)
-    * BFL between "G3" and "failures"
+        * BFL between "G3" and "failures"
       ![failures](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/f5a21810-5030-4fb4-bdfb-30e9ead11f51)
-    * BFL between "G3" and "absences"
+        * BFL between "G3" and "absences"
       ![absences](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/20ff9b1b-7617-4127-a787-f60027ffd30c)
 
     
