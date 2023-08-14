@@ -22,12 +22,12 @@ The attributes/labels that are included in finding the target are:
   <img width="682" alt="Screenshot 2023-08-14 at 6 16 19 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/99a89c97-53fc-4317-8fc9-e6c8173c7377">
   and the intercept as 
   <img width="272" alt="Screenshot 2023-08-14 at 6 18 38 PM" src="https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/263e6b28-8736-463b-af1d-6a00736a03b7">
-  and the accuracy of the model came out as **82.4%**
+  "\n"and the accuracy of the model came out as **82.4%**
   ### 5)Testing the model
   After training the model we need to give the x_test(testing data of x-axis) we will get the predictions of the given data and then we can compare the predicted values to the original value.
   ### 6)Plotting the graph:
   
-        * BFL between "G3" and "G1"
+        * BFL between "G3" and "G1":
            ![G1](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/550db4e7-0468-43bc-8745-2be82b85db8f)
         * BFL between "G3" and "G2"
       ![G2](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/c2eda65a-92f9-4cbf-8ff7-b02c548861e8)
