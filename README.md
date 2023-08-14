@@ -26,6 +26,7 @@ The attributes/labels that are included in finding the target are:
   ### 5)Testing the model
   After training the model we need to give the x_test(testing data of x-axis) we will get the predictions of the given data and then we can compare the predicted values to the original value.
   ### 6)Plotting the graph:
+  
         * BFL between "G3" and "G1"
            ![G1](https://github.com/sreedharan26/FinalGrade-Predictor/assets/60042786/550db4e7-0468-43bc-8745-2be82b85db8f)
         * BFL between "G3" and "G2"
